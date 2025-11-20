@@ -13,7 +13,7 @@
 AI가 소비 패턴을 분석하고 금융 피드백 & 실천 미션을 추천합니다.
 또한 공공데이터의 경제 용어를 하루 1개 제공하고, GPT API를 통해 <b>비유 기반 “쉬운 한 줄 설명”을 제공</b>하여 금융 개념 이해를 돕습니다.
 
-<p align="center">  <img src="https://github.com/user-attachments/assets/7e5f7b8b-f15e-41e6-b475-d6b3795a6dc4" align="center" width="48%">  <img src="https://github.com/user-attachments/assets/c7a48356-304a-49fd-b2be-aa42a122b44f" align="center" width="48%"> <figcaption align="center">예상 UI/UX</figcaption></p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/8a880bcc-5665-49eb-bd25-4c84fca66058" align="center" width="48%">  <img src="https://github.com/user-attachments/assets/8313be69-753d-4837-83b1-b1cfbf940ebe" align="center" width="48%"> <figcaption align="center">예상 UI/UX</figcaption></p>
 
 📌 2. 주요 기능 (MVP Scope)
 ```
